@@ -13,13 +13,9 @@ The generated resume is saved back to Google Drive, and I receive a notification
 This workflow removes repetitive resume editing and transforms it into a fully automated pipeline.
 
 ---
-## 🎬 Demo Video (MP4 Preview)
-
+## 📸 Workflow Screenshot  
 <p align="center">
-  <video controls width="800">
-    <source src="https://raw.githubusercontent.com/narpatganwliya7/Resume-Optimizer-automated-CV-tailoring-pipeline/main/Media/IMG_2024.MP4" type="video/mp4">
-    Your browser does not support the video tag. You can also download it directly: https://raw.githubusercontent.com/narpatganwliya7/Resume-Optimizer-automated-CV-tailoring-pipeline/main/Media/IMG_2024.MP4
-  </video>
+  <img src="Media/Screenshot 2025-11-30 103127.png" alt="Automation Screenshot" width="800">
 </p>
 
 
@@ -91,7 +87,3 @@ Can notify via:
 
 ---
 
-## 📸 Workflow Screenshot  
-<p align="center">
-  <img src="Media/Screenshot 2025-11-30 103127.png" alt="Automation Screenshot" width="800">
-</p>
