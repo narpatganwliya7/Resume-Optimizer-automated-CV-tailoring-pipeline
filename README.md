@@ -6,7 +6,7 @@
 ## 📌 Overview  
 
 This project is an **end-to-end AI-powered automation** that tailors my resume to the latest job openings without any manual work.  
-The system runs **daily at 8 AM**, pulls my original resume from Google Drive, scrapes new job listings from LinkedIn using Apify, analyzes job requirements using AI agents, and produces a new optimized resume aligned with each job.
+The system runs **daily at 8 AM**, pulls my original resume from Google Drive, scrapes new job listings from LinkedIn using Apify, analyzes job requirements using AI agents, and produces a new optimized resume.
 
 The generated resume is saved back to Google Drive, and I receive a notification with the download link.
 
@@ -15,17 +15,9 @@ This workflow removes repetitive resume editing and transforms it into a fully a
 ---
 ## 🎬 Demo Video (GIF Preview)
 
-## 🎥 Demo Video (GIF Preview)
-
-![Demo GIF](https://raw.githubusercontent.com/narpatganwaliya7/Resume-Optimizer-automated-CV-tailoring-pipeline/main/Media/IMG_2024.gif)
-
-
-
 <p align="center">
   <img src="Media/IMG_2024.gif" alt="Automation Demo" width="800">
 </p>
-
-
 
 
 ## ✨ Key Features  
@@ -92,14 +84,11 @@ Can notify via:
 7. **Limit/If Nodes** → Clean processing  
 8. **Create Optimized Resume Document** → PDF/Doc  
 9. **Upload to Google Drive**  
-10. **Send Notification (Email/Telegram)**  
+10. **Send Notification (Email/Telegram)**
 
 ---
 
 ## 📸 Workflow Screenshot  
 <p align="center">
-  <img src="Media
-/Screenshot 2025-11-30 103127.png" alt="Automation Demo" width="800">
+  <img src="Media/Screenshot 2025-11-30 103127.png" alt="Automation Screenshot" width="800">
 </p>
-https://github.com/narpatganwliya7/Resume-Optimizer-automated-CV-tailoring-pipeline/blob/0d3d7548705c2d55789ed1580af26288eb030ca3/Media/IMG_2024.gif
-
