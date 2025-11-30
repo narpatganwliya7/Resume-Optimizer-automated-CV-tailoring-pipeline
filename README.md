@@ -98,4 +98,5 @@ Can notify via:
   <img src="Media
 /Screenshot 2025-11-30 103127.png" alt="Automation Demo" width="800">
 </p>
+https://github.com/narpatganwliya7/Resume-Optimizer-automated-CV-tailoring-pipeline/blob/0d3d7548705c2d55789ed1580af26288eb030ca3/Media/IMG_2024.gif
 
