@@ -13,7 +13,12 @@ The generated resume is saved back to Google Drive, and I receive a notification
 This workflow removes repetitive resume editing and transforms it into a fully automated pipeline.
 
 ---
-Demo Video: 
+## 🎬 Demo Video (GIF Preview)
+
+<p align="center">
+  <img src="Media/IMG_2024.gif" alt="Automation Demo" width="800">
+</p>
+
 
 ## ✨ Key Features  
 
