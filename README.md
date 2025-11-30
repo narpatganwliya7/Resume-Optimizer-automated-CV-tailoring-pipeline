@@ -15,7 +15,10 @@ This workflow removes repetitive resume editing and transforms it into a fully a
 ---
 ## 🎬 Demo Video (GIF Preview)
 
-![Demo GIF]([https://github.com/narpatganwliya7/Resume-Optimizer-automated-CV-tailoring-pipeline/blob/6135a43d53658babf34aa98b00263381d6b52f51/Media/IMG_2024.gif])
+## 🎥 Demo Video (GIF Preview)
+
+![Demo GIF](https://raw.githubusercontent.com/narpatganwaliya7/Resume-Optimizer-automated-CV-tailoring-pipeline/main/Media/IMG_2024.gif)
+
 
 
 <p align="center">
