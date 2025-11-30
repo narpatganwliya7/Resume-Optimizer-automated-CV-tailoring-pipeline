@@ -20,6 +20,8 @@ This workflow removes repetitive resume editing and transforms it into a fully a
 </p>
 
 
+
+
 ## ✨ Key Features  
 
 ### 🔄 Daily Automation  
@@ -89,5 +91,8 @@ Can notify via:
 ---
 
 ## 📸 Workflow Screenshot  
-Add your screenshot here:
+<p align="center">
+  <img src="Media
+/Screenshot 2025-11-30 103127.png" alt="Automation Demo" width="800">
+</p>
 
